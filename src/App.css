@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.app_form{
+padding: 20px;
+position: fixed;
+bottom: 20px;
+z-index: 1;
+background-color: black;
+width: 100%;
+
+}
